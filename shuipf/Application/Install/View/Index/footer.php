@@ -1,0 +1,1 @@
+<div class="footer"> &copy; 2012 - {:date("Y")} <a href="http://www.shuipfcms.com" target="_blank">http://www.shuipfcms.com</a>（ShuipFCMS内容管理系统） </div>
